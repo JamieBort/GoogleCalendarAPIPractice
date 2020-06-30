@@ -8,17 +8,18 @@ Note: the client id and the client secret is located here:
 
 Note about branches:
 The documentation gives [Quickstarts instructions](https://developers.google.com/calendar/overview#quickstarts) for accessing the api with different technologies. Some of the choices are:
-1. JavaScript
-2. Python
-3. Java
-4. Node
+1. [JavaScript](https://developers.google.com/calendar/quickstart/js)
+2. [Python](https://developers.google.com/calendar/quickstart/python)
+3. [Java](https://developers.google.com/calendar/quickstart/java)
+4. [Node](https://developers.google.com/calendar/quickstart/nodejs)
 These four interest me. I have created (or will create) a branch for each of these to implement the api calls using each of those technologies.
 Currently in Python Branch.
 
 ## Status
-Looking to see which resource below was used to start this repot.
+I have not progressed past this [Step 3: Set up the sample](https://developers.google.com/calendar/quickstart/python#step_3_set_up_the_sample) section.
 
 ## Next Steps
+1. Follow the documentation.
 
 
 ## Resources
