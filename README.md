@@ -4,7 +4,7 @@
 The purpose of this repo is to create a project that I can make api calls to my calendar.
 
 Note: the client id and the client secret is located here:
-../DevFiles/KeysTokens/GoogleCalendarKeyToken.txt
+`../DevFiles/KeysTokens/GoogleCalendarKeyToken.txt`
 
 Note about branches:
 
