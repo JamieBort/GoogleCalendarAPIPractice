@@ -16,7 +16,7 @@ The documentation gives [Quickstarts instructions](https://developers.google.com
 
 These four interest me. I have created (or will create) a branch for each of these to implement the api calls using each of those technologies.
 
-Currently in ______________ Branch.
+Currently in Master Branch.
 
 ## Status
 Created the JavaScript and Python branches.
