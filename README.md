@@ -4,8 +4,10 @@ Note: the client id and the client secret is located here:
 ../DevFiles/KeysTokens/GoogleCalendarKeyToken.txt
 
 ## Status
+See the [Status](https://github.com/JamieBort/GoogleCalendarAPIPractice#status) section in the GitHub repo.
 
 ## Next Steps
+See the [Next Steps](https://github.com/JamieBort/GoogleCalendarAPIPractice#next-steps) section in the GitHub repo.
 
 ## Resources
 [Get Started with the Calendar API](https://developers.google.com/calendar/overview) documentation.
