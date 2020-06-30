@@ -4,19 +4,21 @@
 The purpose of this repo is to create a project that I can make api calls to my calendar.
 
 Note: the client id and the client secret is located here:
-../DevFiles/KeysTokens/GoogleCalendarKeyToken.txt
-
-Note: the client id and the client secret is located here:
-../DevFiles/KeysTokens/GoogleCalendarKeyToken.txt
+`../DevFiles/KeysTokens/GoogleCalendarKeyToken.txt`
 
 Note about branches:
-The documentation gives [Quickstarts instructions](https://developers.google.com/calendar/overview#quickstarts) for accessing the api with different technologies. Some of the choices are:
+
+The documentation gives [Quickstarts instructions](https://developers.google.com/calendar/overview#quickstarts) for accessing the api with different technologies. 
+
+Some of the choices are:
 1. [JavaScript](https://developers.google.com/calendar/quickstart/js)
 2. [Python](https://developers.google.com/calendar/quickstart/python)
 3. [Java](https://developers.google.com/calendar/quickstart/java)
 4. [Node](https://developers.google.com/calendar/quickstart/nodejs)
+
 These four interest me. I have created (or will create) a branch for each of these to implement the api calls using each of those technologies.
-Currently in JavaScript Branch.
+
+**Currently in JavaScript Branch.**
 
 ## Status
 Created the JavaScript and Python branches.
