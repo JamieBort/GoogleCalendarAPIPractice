@@ -1,13 +1,16 @@
 # GoogleCalendarAPIPractice
 
+## Goal
+The purpose of this repo is to create a project that I can make api calls to my calendar.
+
 Note: the client id and the client secret is located here:
 ../DevFiles/KeysTokens/GoogleCalendarKeyToken.txt
 
 ## Status
-See the [Status](https://github.com/JamieBort/GoogleCalendarAPIPractice#status) section in the GitHub repo.
+Looking to see which resource below was used to start this repot.
 
 ## Next Steps
-See the [Next Steps](https://github.com/JamieBort/GoogleCalendarAPIPractice#next-steps) section in the GitHub repo.
+
 
 ## Resources
 [Get Started with the Calendar API](https://developers.google.com/calendar/overview) documentation.
