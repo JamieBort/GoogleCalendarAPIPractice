@@ -7,6 +7,7 @@ Note: the client id and the client secret is located here:
 ../DevFiles/KeysTokens/GoogleCalendarKeyToken.txt
 
 Note about branches:
+
 The documentation gives [Quickstarts instructions](https://developers.google.com/calendar/overview#quickstarts) for accessing the api with different technologies. Some of the choices are:
 1. [JavaScript](https://developers.google.com/calendar/quickstart/js)
 2. [Python](https://developers.google.com/calendar/quickstart/python)
@@ -14,6 +15,7 @@ The documentation gives [Quickstarts instructions](https://developers.google.com
 4. [Node](https://developers.google.com/calendar/quickstart/nodejs)
 
 These four interest me. I have created (or will create) a branch for each of these to implement the api calls using each of those technologies.
+
 Currently in ______________ Branch.
 
 ## Status
